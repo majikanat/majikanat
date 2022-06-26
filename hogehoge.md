@@ -1,6 +1,8 @@
 '''mermaid
 flowchart LR
-  subgraph RR
+    subgraph RR
+      Binary
+    end
 
 
 
